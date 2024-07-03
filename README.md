@@ -9,7 +9,9 @@ Image Enhancement: Applies Gaussian blur and grayscale conversion for improved i
 # Usage:
 
 Requirements: Python 3.x, OpenCV library.
+
 Installation: Clone the repository and install dependencies (pip install -r requirements.txt).
+
 Execution: Run main.py to start the security camera.
 
 # How It Works:
