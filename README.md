@@ -4,6 +4,7 @@ This Python-based security surveillance system utilizes the OpenCV library to cr
 # Key Features:
 
 Motion Detection: Utilizes frame difference technique of background subtraction for accurate motion detection.
+
 Image Enhancement: Applies Gaussian blur and grayscale conversion for improved image quality and detection accuracy.
 
 # Usage:
@@ -17,14 +18,17 @@ Execution: Run main.py to start the security camera.
 # How It Works:
 
 Motion Detection: Compares consecutive frames to detect changes, indicating potential intrusions.
+
 Image Enhancement: Preprocesses frames with Gaussian blur to reduce noise and converts to grayscale for better feature extraction.
 
 # Acknowledgments:
 
 Built with Python and OpenCV.
+
 Inspired by the need for effective home security systems.
 
 # Future Improvements:
 
 Implement object tracking for continuous monitoring.
+
 Integrate with cloud storage for remote access to footage.
